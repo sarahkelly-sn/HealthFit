@@ -24,4 +24,5 @@ Realizei uma análise geral dos dados, concentrando-me na faixa etária em rela�
 - A maioria dos usuários possui idade avançada, sendo principalmente pessoas acima de 75 anos.
 - Identifiquei que o principal perfil de usuário que busca o aplicativo são pessoas com hábitos ruins, que não consomem a quantidade mínima de água recomendada para o peso deles e apresentam IMC acima do recomendado.
 
+![image](https://github.com/sarahkelly-sn/HealthFit/assets/101109549/a1265be5-f768-4fd5-9796-26616757dcaa)
 
