@@ -1,9 +1,3 @@
-## Considerações 
-
-### Introdução
-
-Ao iniciar este teste, fiquei empolgada com a idéia de explorar o conjunto de dados. Minha abordagem fugiu um pouco da tratativa e melhora dos dados no geral devido ao prazo de entrega. Eu tinha com essa base várias informações, poderia focar em uma anpalise de perfil de pessoa por tipo de atividade física, por nível de estresse, ou por dieta, mas decidi focar em entregar um painel focado na análise do IMC. Gostaria de destacar alguns pontos a cerca da base de dados enviada nessa documentação.
-
 ## Considerações
 
 ### Introdução
